@@ -45,6 +45,6 @@ For more detailed information about the project, including system architecture, 
 #### Contributors
 
 - Ruben Odamo
-- Tanaya Patel (@Tanaya-27](https://github.com/Tanaya-27)
+- Tanaya Patel (@Tanaya-27](https://github.com/Tanaya-27))
 - Lauryn Williams-Lewis
-- Matthew Pryke (@MattCode2003](https://github.com/MattCode2003)
+- Matthew Pryke (@MattCode2003](https://github.com/MattCode2003))
