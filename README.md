@@ -45,7 +45,7 @@ For more detailed information about the project, including system architecture, 
 
 ## Additional Resources
 
-- [Project Abstract](): Abstract of the project, giving an overview of the smart museum.
+- [Project Abstract](Abstract.pdf): Abstract of the project, giving an overview of the smart museum.
 - [Project Presentation](): Detailed overview and demonstration of the smart museum system.
 
 
