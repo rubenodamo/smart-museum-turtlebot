@@ -23,13 +23,13 @@ In this repository, you'll find the Python script (`move_bot.py`) that controls 
 
 ## Project Presentation
 
-For more detailed information about the project, including system architecture, sensor functionalities, and demonstrations, refer to the presentation script provided (`presentation_script.pdf`).
+For more detailed information about the project, including system architecture, sensor functionalities, and demonstrations, refer to the presentation PowerPoint provided ([Project Presentation](Presentation.pptx.zip)).
 
 ## How to Use
 
 1. **Clone the Repository**: Clone this repository to your local machine using Git.
    ```bash
-   git clone https://github.com/your-username/smart-museum-turtlebot.git
+   git clone https://github.com/rubenodamo/smart-museum-turtlebot.git
    ```
    
 2. **Install Dependencies**: Ensure you have all necessary dependencies installed, including ROS and Python libraries used in `move_bot.py`.
@@ -42,16 +42,9 @@ For more detailed information about the project, including system architecture, 
 - **Multiple TurtleBots**: Integrate multiple TurtleBots to improve response time and coverage across the museum.
 - **Machine Learning Integration**: Implement AI/ML for advanced security analytics and anomaly detection.
 
-
-## Additional Resources
-
-- [Project Abstract](Abstract.pdf): Abstract of the project, giving an overview of the smart museum.
-- [Project Presentation](): Detailed overview and demonstration of the smart museum system.
-
-
 #### Contributors
 
 - Ruben Odamo
-- Tanaya Patel
+- Tanaya Patel (@Tanaya-27)
 - Lauryn Williams-Lewis
-- Matthew Pryke
+- Matthew Pryke (@MattCode2003)
