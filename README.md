@@ -16,7 +16,7 @@ In this repository, you'll find the Python script (`move_bot.py`) that controls 
 - **Integration with MQTT**: Uses MQTT for real-time communication with sensors and OpenHAB.
 - **Security Response**: Activate silent alarms, capture images upon security breaches, and generate PDF reports for security teams.
 - **Integration with OpenHAB**: Includes configuration files (`door_rules.js`, `items.js`, `rrd4j_persists.js`) for OpenHAB rules and sensor management.
-  - **Charging Station Detection**: Automatically navigate to the nearest charging station upon low battery using color detection.
+  - **Charging Station Detection**: Automatically navigate to the nearest charging station upon low battery using colour detection.
 - **Entry Count Monitoring**: Track the number of entries into the museum using door sensors.
 - **User Interface**: Utilises HABPanel for a user-friendly interface to monitor and control the TurtleBot and security sensors.
 
@@ -46,5 +46,5 @@ For more detailed information about the project, including system architecture, 
 
 - Ruben Odamo
 - Tanaya Patel ([@Tanaya-27](https://github.com/Tanaya-27))
-- Lauryn Williams-Lewis
+- Lauryn Williams-Lewis ([@laurynn-wl](https://github.com/laurynn-wl))
 - Matthew Pryke ([@MattCode2003](https://github.com/MattCode2003))
